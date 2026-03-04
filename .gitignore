@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.tox/
+.nox/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.idea/  # For PyCharm
+.vscode/  # For VS Code
+.ruff_cache/ # For Ruff linter
+.dmypy_cache/ # For mypy static analyzer
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.log
+local_settings.py
+db.sqlite3
+*.pot
